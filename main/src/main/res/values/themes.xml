@@ -1,0 +1,8 @@
+<resources>
+  <style name="Theme.Vylo.NoActionBar" >
+  <item name="windowActionBar">false</item>
+  <item name="windowNoTitle">true</item>
+</style>
+  <style name="Theme.Vylo.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+  <style name="Theme.Vylo.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

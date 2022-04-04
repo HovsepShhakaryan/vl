@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">vylo</string>
+    <string name="label_no_connection">No internet connection</string>
+    <string name="label_return_start_screen">Start screen</string>
+</resources>

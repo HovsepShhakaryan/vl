@@ -1,0 +1,9 @@
+<resources>
+    <string name="title_activity_main_flaw">MainFlawActivity</string>
+    <string name="label_home">Home</string>
+    <string name="label_newsstand">Newsstand</string>
+    <string name="label_create">Create</string>
+    <string name="label_trending">Trending</string>
+    <string name="label_profile">Profile</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="@string/label_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_icon_vylo"/>
+    <item
+        android:id="@+id/newsStandFragment"
+        android:title="@string/label_newsstand"
+        android:icon="@drawable/ic_icon_newsstand_new"/>
+    <item
+        android:id="@+id/createFragment"
+        android:title="@string/label_create"
+        android:icon="@drawable/ic_icon_create_new"/>
+    <item
+        android:id="@+id/trendingFragment"
+        android:title="@string/label_trending"
+        android:icon="@drawable/ic_icon_trending_new"/>
+    <item
+        android:id="@+id/profileFragment"
+        android:title="@string/label_profile"
+        android:icon="@drawable/ic_icon_profile"/>
+</menu>

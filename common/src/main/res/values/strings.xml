@@ -1,0 +1,7 @@
+<resources>
+    <string name="label_no_connection">No internet connection</string>
+    <string name="label_invalid_field">Field is invalid</string>
+    <string name="label_file_field">File field</string>
+    <string name="label_pass_not_matched">Passwords not matched</string>
+    <string name="label_return_start_screen">Start screen</string>
+</resources>
